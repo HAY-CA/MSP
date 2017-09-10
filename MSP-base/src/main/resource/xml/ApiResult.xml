@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiResult>
+    <result id="-1">系统错误</result>
+    <result id="0">成功</result>
+    <result id="1">失败</result>
+    <result id="2">请检查接口文档参数是否正确</result>
+    <result id="3">请检查接口文档请求方式是否正确</result>
+</ApiResult>
